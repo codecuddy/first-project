@@ -31,8 +31,14 @@
 	cursor: pointer;
 }
 
-p {  
+p { font-family: fantasy; 
+color: blue;
+font-size: 12px;
 }
+
+ol { font-family: monospace;
+color: green;
+font-size: small;}
 
 span {
 }
