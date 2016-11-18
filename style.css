@@ -1,3 +1,5 @@
+/*Beginning of comment, does not read this code, closing on line 35
+
 #mainContent {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: xx-large;
@@ -30,15 +32,17 @@
 	color: #669900;
 	cursor: pointer;
 }
+*/
 
-p { font-family: fantasy; 
+p { font-family: serif; 
 color: blue;
-font-size: 12px;
+line-height:
+font-size: 1em;
 }
 
 ol { font-family: monospace;
 color: green;
-font-size: small;}
+font-size: 1em;}
 
 span {
 }
