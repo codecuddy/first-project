@@ -33,9 +33,22 @@
 	cursor: pointer;
 }
 */
+/*Cool Pic for behind name...won't show yet*/
 
-p { font-family: serif; 
-color: blue;
+
+h1 {color: blue;
+	text-align: center;
+	font-family: georgia;
+	font-style: italic;}
+
+h2 {color: green;
+text-align: center;
+font-family: serif;
+font-style: italic;}
+	
+p {text-indent: 2em;
+	font-family: serif; 
+color: black;
 line-height:
 font-size: 1em;
 }
@@ -46,3 +59,10 @@ font-size: 1em;}
 
 span {
 }
+
+table {border: 3px solid black;}
+
+tr {border: 1px dashed red;}
+
+img {height: 95%;
+width: 95%;}
