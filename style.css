@@ -35,8 +35,12 @@
 */
 /*Cool Pic for behind name...won't show yet http://www-tc.pbs.org/wgbh/nova/next/wp-content/uploads/2016/04/cosmic-dark-ages.jpg*/
 
-a {text-decoration: none;
-}
+a:link {color: black;
+	text-decoration: none;}
+
+a:hover {color:yellow;}
+
+a:visited {color:purple;}
 
 .center-button{
 height: 50px;
