@@ -36,15 +36,18 @@
 /*Cool Pic for behind name...won't show yet http://www-tc.pbs.org/wgbh/nova/next/wp-content/uploads/2016/04/cosmic-dark-ages.jpg*/
 
 a:link {color: black;
-	text-decoration: none;
-
+	text-decoration: none;}
+	
+a:visited {text-decoration: none;
+	color: black;
 }
 
 a:hover {color:yellow;}
 
-a:visited {color:purple;}
-
 div {text-align: left;}
+
+#experiences {color: red;
+font-family: lucida;}
 
 .button{
 height: 50px;
@@ -98,6 +101,7 @@ font-family: serif;
 font-style: italic;}*/
 	
 p {text-indent: 2em;
+text-align: left;
 font-family: serif; 
 color: black;
 font-size: 1em;
@@ -105,7 +109,7 @@ font-size: 1em;
 
 
 ol { font-family: monospace;
-color: green;
+color: black;
 font-size: 1em;}
 
 span {
